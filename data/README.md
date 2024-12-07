@@ -1,0 +1,2 @@
+- Download the processed BraTS2019 data (we just used the Flair images for whole tumor segmentation) from google drive:
+https://drive.google.com/file/d/1U1cUpHjtc2-bjwhwRZB9mgziELvFWu2Z/view?usp=sharing
